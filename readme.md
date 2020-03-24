@@ -8,7 +8,7 @@
 
 A template is a graphic design of text and images that Bannerbear can manipulate via API. Currently users on Bannerbear must design their own template, or use one of the few available public templates. You can add these templates to your project, edit them / remix them, and then start pushing in your data via API to generate images. Example templates below:
 
-![https://pbs.twimg.com/media/ET2M9IzUEAEEinC?format=jpg&name=4096x4096]()
+![](https://pbs.twimg.com/media/ET2M9IzUEAEEinC?format=jpg&name=4096x4096)
 
 ## What is this repo?
 
