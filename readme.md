@@ -1,3 +1,5 @@
+[Create a template request](https://github.com/yongfook/bannerbear-template-library/issues/new?assignees=&labels=&template=template-request.md&title=New+template+suggestion%3A+%28your+idea+here%29) and we will take it from there!
+
 # FAQ
 
 ## What is Bannerbear?
